@@ -55,6 +55,6 @@
 \newcommand{\p}{^\prime} %prime
 %\newcommand{\par}[1]{\left(#1\right)} %self-adjusting parenthesis
 \newcommand{\pp}[2]{\frac{\partial#1}{\partial#2}} %partial derivative
-\renewcommand\qedsymbol{QED} %qed symbol
+\renewcommand\qedsymbol{\textbf{QED}} %qed symbol
 \newcommand{\set}[1]{\left\{#1\right\}} %set with self-adjusting curly braces
 \newcommand{\sq}[1]{\left[#1\right]} %self-adjusting sqaure braces
