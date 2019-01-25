@@ -44,6 +44,7 @@
 %Commands
 \newcommand{\ang}[1]{\left\langle#1\right\rangle} %self-adjusting angled braces
 \newcommand{\bra}[1]{\left(#1\right)} %self-adjusting parenthesis
+\newcommand{\C}{\mathbb{C}} %complex numbers
 \newcommand{\ceq}{\coloneqq} %collon equal to
 \newcommand{\contra}{\longrightarrow\longleftarrow} %contradiction
 \renewcommand{\d}{\mathrm{d}} %roman d
@@ -55,6 +56,10 @@
 \newcommand{\p}{^\prime} %prime
 %\newcommand{\par}[1]{\left(#1\right)} %self-adjusting parenthesis
 \newcommand{\pp}[2]{\frac{\partial#1}{\partial#2}} %partial derivative
-\renewcommand\qedsymbol{\textbf{QED}} %qed symbol
+\newcommand{\Q}{\mathbb{Q}} %rational numbers
+\renewcommand{\qedsymbol}{\textbf{QED}} %qed symbol
+\newcommand{\Qp}{\mathbb{Q}_p} %p adic numbers
+\newcommand{\R}{\mathbb{R}} %real numbers
 \newcommand{\set}[1]{\left\{#1\right\}} %set with self-adjusting curly braces
 \newcommand{\sq}[1]{\left[#1\right]} %self-adjusting sqaure braces
+\newcommand{\st}{\text{ such that }}
