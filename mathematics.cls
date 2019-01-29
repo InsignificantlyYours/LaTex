@@ -52,7 +52,9 @@
 \newcommand{\ex}[1]{ \textit{Examples: #1, etc.} } %examples
 \newcommand{\fe}[1]{ \textit{For example, #1.} } %for example
 \newcommand{\ie}{ \textit{ie} } %italicized ie
+\newcommand{\inv}{^{-1}}
 \renewcommand{\mod}[2]{\equiv#1 (\mathrm{mod}\ #2)} %modular arithmetic
+\newcommand{\N}{\mathbb{N}} %natural numbers
 \newcommand{\p}{^\prime} %prime
 %\newcommand{\par}[1]{\left(#1\right)} %self-adjusting parenthesis
 \newcommand{\pp}[2]{\frac{\partial#1}{\partial#2}} %partial derivative
